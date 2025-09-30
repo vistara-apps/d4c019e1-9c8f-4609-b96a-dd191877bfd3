@@ -3,8 +3,8 @@ import './globals.css'
 import { ThemeProvider } from './components/ThemeProvider'
 
 export const metadata: Metadata = {
-  title: 'Base Mini App',
-  description: 'Built with Zara',
+  title: 'Token Pulse - Real-time Web3 Insights',
+  description: 'Real-time Web3 insights, delivered instantly. Track token metrics, social sentiment, and on-chain activity.',
 }
 
 export default function RootLayout({
