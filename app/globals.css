@@ -4,6 +4,16 @@
 
 @layer base {
   :root {
+    /* Design system colors from specifications */
+    --bg: 210 40% 96%;
+    --accent: 210 60% 50%;
+    --primary: 210 40% 98%;
+    --success: 142 40% 50%;
+    --surface: 0 0% 100%;
+    --warning: 25 90% 50%;
+    --text-primary: 210 40% 15%;
+    --text-secondary: 210 40% 45%;
+
     /* Default theme variables */
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
